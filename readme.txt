@@ -12,7 +12,7 @@ An innovative Gutenberg block that displays an infinite loop of moving cards wit
 
 The Infinite Moving Cards Block is a unique and visually captivating addition to the WordPress block editor. This block allows you to create an infinite loop of cards that seamlessly move across the screen, presenting your content in an engaging and dynamic manner.
 
-Development of this block is ongoing, and contributions are welcome! You can find the source code and contribute on GitHub: https://github.com/asheshmagar/infinite-moving-cards-block
+Development of this block is ongoing, and contributions are welcome! You can find the source code and contribute on GitHub: https://github.com/asheshmagar/infinite-moving-cards
 
 
 == Changelog ==
