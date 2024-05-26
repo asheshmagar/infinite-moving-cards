@@ -2,7 +2,7 @@
 Contributors:      asheshmagar
 Tags:              block
 Tested up to:      6.5
-Stable tag:        0.1.0
+Stable tag:        0.1.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,5 +17,5 @@ Development of this block is ongoing, and contributions are welcome! You can fin
 
 == Changelog ==
 
-= 0.1.0 =
-* Release
+= 0.1.1 =
+* Initial release.
